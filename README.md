@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @mithujith
+- 👋 Hi, I’m @Mithujith
 - 👀 I’m interested in Software development
 - 🌱 I’m currently following a degree 
 - 💞️ I’m looking to collaborate on ...
