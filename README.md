@@ -8,7 +8,7 @@
   - Open-source software for embedded systems  
   - Innovative mobile apps (React Native / Flutter)  
 - 📫 Reach me via:  
-  - Email: mithujith123@gmail.com  
+  - Email: mithujithrathnayaka4u@outlook.com  
   - LinkedIn: [linkedin.com/in/mithujith](https://www.linkedin.com/in/mithujith)  
 - 😄 Pronouns: He/Him  
 - ⚡ Fun fact: I love blending hardware and software to create things that respond to the real world — turning everyday ideas into smart solutions!
